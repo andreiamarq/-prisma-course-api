@@ -66,17 +66,3 @@ As principais dificuldades foram configurar a conexão entre o Prisma e o Postgr
 
 Um ORM como o Prisma aproxima o código da aplicação do banco usando modelos e tipos consistentes, reduz SQL repetitivo e facilita migrations, relacionamentos e consultas. Isso aumenta a produtividade e a legibilidade, sem esconder a necessidade de conhecer modelagem, índices e o comportamento do banco.
 
-## Publicação no GitHub
-
-Depois de criar um repositório público vazio no GitHub, execute na raiz do projeto:
-
-```bash
-git init
-git add .
-git commit -m "feat: create Prisma course API"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/prisma-course-api.git
-git push -u origin main
-```
-
-Substitua `SEU_USUARIO` pelo seu usuário e publique neste fórum o endereço do repositório.
